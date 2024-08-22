@@ -1,9 +1,8 @@
 <a name="readme-top"></a>
 
-# Taskify - Collaborate, manage projects and reach new productivity peaks.
+# flowdeck - Collaborate, manage projects and reach new productivity peaks.
 
-![Taskify - Collaborate, manage projects and reach new productivity peaks.](/.github/images/img_main.png "Taskify - Collaborate, manage projects and reach new productivity peaks.")
-
+![image](https://github.com/user-attachments/assets/e73f545c-f64d-4980-b72a-7f95464a9c01)
 
 <!-- Table of Contents -->
 <details>
@@ -179,13 +178,13 @@ NEXT_PUBLIC_APP_URL=http://localhost:3000
 
 ## :camera: Screenshots:
 
-![Modern UI/UX](/.github/images/img1.png "Modern UI/UX")
+![image](https://github.com/user-attachments/assets/e1fc225f-7b86-41a4-adc7-ada3f796988d)
 
-![Create Boards](/.github/images/img2.png "Create Boards")
+![image](https://github.com/user-attachments/assets/64f99d42-4613-460f-8fa8-068bf923a15f)
 
-![Premium Lists and Card](/.github/images/img3.png "Premium Lists and Card")
+![image](https://github.com/user-attachments/assets/099f0725-e3fa-4509-b91a-9f32f741d1b1)
 
-![View Activity](/.github/images/img4.png "View Activity")
+![image](https://github.com/user-attachments/assets/632f18f3-7d2b-4dae-90a0-8687cd63d1eb)
 
 ## :gear: Tech Stack
 
