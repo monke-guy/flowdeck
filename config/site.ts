@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "Taskify",
+  name: "flowDeck",
   description: "Collaborate, manage projects and reach new productivity peaks.",
   keywords: [
     "reactjs",
