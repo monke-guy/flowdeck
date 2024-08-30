@@ -23,7 +23,7 @@ export const Navbar = () => {
           </Link>
 
           <Link
-            href="https://github.com/sanidhyy/trello-clone"
+            href="https://github.com/monke-guy/flowdeck"
             target="_blank"
             rel="noreferrer noopener"
             className={buttonVariants({ size: "sm" })}

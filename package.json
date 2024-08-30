@@ -1,11 +1,11 @@
 {
-  "name": "trello-clone",
+  "name": "flowdeck",
   "version": "1.0.1",
   "private": true,
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
-    "url": "https://github.com/sanidhyy"
+    "name": "Rakesh Choudhary",
+    "email": "hello.monkeguy@gmail.com",
+    "url": "https://github.com/monke-guy"
   },
   "description": "Collaborate, manage projects and reach new productivity peaks.",
   "keywords": [
@@ -46,12 +46,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanidhyy/trello-clone.git"
+    "url": "https://github.com/monke-guy/flowdeck.git"
   },
-  "homepage": "https://github.com/sanidhyy/trello-clone#readme",
+  "homepage": "https://github.com/monke-guy/flowdeck#readme",
   "bugs": {
-    "url": "https://github.com/sanidhyy/trello-clone/issues",
-    "email": "sanidhya.verma12345@gmail.com"
+    "url": "https://github.com/monke-guy/flowdeck/issues",
+    "email": "hello.monkeguy@gmail.com"
   },
   "scripts": {
     "dev": "next dev",
@@ -103,15 +103,5 @@
     "prisma": "^5.6.0",
     "tailwindcss": "^3.3.0",
     "typescript": "^5"
-  },
-  "funding": [
-    {
-      "type": "patreon",
-      "url": "https://www.patreon.com/sanidhy"
-    },
-    {
-      "type": "Buy me a coffee",
-      "url": "https://www.buymeacoffee.com/sanidhy"
-    }
-  ]
+  }
 }
