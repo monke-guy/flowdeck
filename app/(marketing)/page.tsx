@@ -29,7 +29,7 @@ const MarketingPage = () => {
           No. 1 task management
         </div>
         <h1 className="text-3xl md:text-6xl text-center text-neutral-800 mb-6">
-          flowDeck helps team move
+          Taskify helps team move
         </h1>
 
         <div className="text-3xl md:text-6xl bg-gradient-to-r from-fuchsia-600 to-pink-600 text-white px-4 p-2 rounded-md pb-4 w-fit">
@@ -45,14 +45,14 @@ const MarketingPage = () => {
       >
         Collaborate, manage projects, and reach new productivity peaks. From
         high rises to the home offices, the way your team works is unique —
-        accomplish it all with flowDeck.
+        accomplish it all with Taskify.
       </div>
 
       <Link
         href="/sign-up"
         className={cn(buttonVariants({ size: "lg" }), "mt-6")}
       >
-        Get flowDeck for free
+        Get Taskify for free
       </Link>
     </div>
   );

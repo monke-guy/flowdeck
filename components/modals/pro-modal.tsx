@@ -36,10 +36,10 @@ export const ProModal = () => {
 
         <div className="text-neutral-700 mx-auto space-y-6 p-6">
           <h2 className="font-semibold text-xl">
-            Upgrade to flowDeck Pro Today!
+            Upgrade to Taskify Pro Today!
           </h2>
           <p className="text-xs font-semibold text-neutral-700">
-            Explore the best of flowDeck.
+            Explore the best of Taskify.
           </p>
 
           <div className="pl-3">

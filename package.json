@@ -1,5 +1,5 @@
 {
-  "name": "flowdeck",
+  "name": "Taskify",
   "version": "1.0.1",
   "private": true,
   "author": {
@@ -46,11 +46,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/monke-guy/flowdeck.git"
+    "url": "https://github.com/monke-guy/Taskify.git"
   },
-  "homepage": "https://github.com/monke-guy/flowdeck#readme",
+  "homepage": "https://github.com/monke-guy/Taskify#readme",
   "bugs": {
-    "url": "https://github.com/monke-guy/flowdeck/issues",
+    "url": "https://github.com/monke-guy/Taskify/issues",
     "email": "hello.monkeguy@gmail.com"
   },
   "scripts": {

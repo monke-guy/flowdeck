@@ -23,7 +23,7 @@ export const Logo = ({ isMobile }: LogoProps) => {
       >
         <Image
           src="/logo.svg"
-          alt="flowDeck logo"
+          alt="Taskify logo"
           height={30}
           width={30}
           aria-hidden
@@ -32,7 +32,7 @@ export const Logo = ({ isMobile }: LogoProps) => {
         <p
           className={cn("text-lg text-neutral-700 pb-1", headingFont.className)}
         >
-          flowDeck
+          Taskify
         </p>
       </div>
     </Link>

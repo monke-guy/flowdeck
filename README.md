@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# flowdeck - Collaborate, manage projects and reach new productivity peaks.
+# Taskify - Collaborate, manage projects and reach new productivity peaks.
 
 ![image](https://github.com/user-attachments/assets/e73f545c-f64d-4980-b72a-7f95464a9c01)
 
