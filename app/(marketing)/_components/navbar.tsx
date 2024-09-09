@@ -19,11 +19,11 @@ export const Navbar = () => {
           </Link>
 
           <Link href="/sign-up" className={buttonVariants({ size: "sm" })}>
-            Get Taskify for free
+            Get flowDeck for free
           </Link>
 
           <Link
-            href="https://github.com/monke-guy/Taskify.git"
+            href="https://github.com/monke-guy/flowdeck.git"
             target="_blank"
             rel="noreferrer noopener"
             className={buttonVariants({ size: "sm" })}

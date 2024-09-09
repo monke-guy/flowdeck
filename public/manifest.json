@@ -4,8 +4,8 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "name": "Taskify",
-  "short_name": "Taskify",
+  "name": "flowDeck",
+  "short_name": "flowDeck",
   "description": "Collaborate, manage projects and reach new productivity peaks.",
   "icons": [
     {
