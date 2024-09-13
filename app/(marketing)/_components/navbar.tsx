@@ -19,7 +19,7 @@ export const Navbar = () => {
           </Link>
 
           <Link href="/sign-up" className={buttonVariants({ size: "sm" })}>
-            Get Taskify for free
+            Get flowDeck for free
           </Link>
 
           <Link
